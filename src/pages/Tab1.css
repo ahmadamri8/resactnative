@@ -1,0 +1,8 @@
+/* Styling untuk halaman AlbumsPage */
+
+ion-thumbnail img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+  }
+  
